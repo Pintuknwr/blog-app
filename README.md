@@ -49,7 +49,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
    Create a `.env` file in the root directory of the project and add the following variables:
 
    ```env
-   PORT=3000
+   PORT=9000
    MONGODB_URI=mongodb://localhost:27017/blogapp
    JWT_SECRET=your_jwt_secret_key
    ```

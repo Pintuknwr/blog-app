@@ -9,7 +9,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
 ## Features
 
 - **User Authentication:** Secure login and registration with JWT.
-- **Blog Management:** Create, read, update, and delete blog posts.
+- **Blog Management:** Create, read and comments.
 - **Responsive Design:** Modern, responsive UI using Bootstrap.
 - **Data Storage:** Persistent storage of blog posts and user information in MongoDB.
 
@@ -32,7 +32,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Pintuknwr/blog-application.git
+   git clone https://github.com/Pintuknwr/blog-app.git
    cd blog-application
    ```
 
@@ -70,7 +70,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
    npm start
    ```
 
-   The application will be available at `http://localhost:3000`.
+   The application will be available at `http://localhost:9000`.
 
 ## Usage
 

@@ -59,7 +59,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
    Make sure MongoDB is running. You can start MongoDB using:
 
    ```bash
-   mongod
+   mongosh
    ```
 
 5. **Run the Application**
@@ -67,7 +67,7 @@ Bootstrap for styling, JSON Web Tokens (JWT) for user authentication, and MongoD
    Start the server with:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The application will be available at `http://localhost:9000`.
